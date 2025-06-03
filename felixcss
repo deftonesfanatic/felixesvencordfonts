@@ -1,0 +1,8 @@
+:root {
+ font-family: "Papyrus";
+}
+
+@font-face {
+ font-family: "Papyrus";
+ src: url("https://github.com/deftonesfanatic/felixesvencordfonts/blob/main/PAPYRUS.TTF");
+}
